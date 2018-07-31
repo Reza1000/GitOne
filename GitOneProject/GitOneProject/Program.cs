@@ -10,10 +10,9 @@ namespace GitOneProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Git :-)");
-            Console.WriteLine("Hello Back TO You ;-)");
-            Console.WriteLine("Hello Back TO You ;-)");
-            
+           //tog bort hej
+
+            // ja men skrev igen :)
             
         }
     }

@@ -13,13 +13,7 @@ namespace GitOneProject
             Console.WriteLine("Hello Git :-)");
             Console.WriteLine("Hello Back TO You ;-)");
             Console.WriteLine("Hello Back TO You ;-)");
-
-            Console.WriteLine("En Till");
             
-            // I want New Lines Here 
-            
-            // I want one more line here 
-
             
         }
     }

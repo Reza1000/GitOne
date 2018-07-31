@@ -11,6 +11,8 @@ namespace GitOneProject
         static void Main(string[] args)
         {
            //tog bort hej
+
+            // ja men skrev igen :)
             
         }
     }

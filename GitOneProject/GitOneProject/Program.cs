@@ -10,7 +10,7 @@ namespace GitOneProject
     {
         static void Main(string[] args)
         {
-          //det e lång historia...
+          //Shalgham nabash
             
         }
     }
